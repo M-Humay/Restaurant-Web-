@@ -1,5 +1,5 @@
 # Restaurant Web Application 
-Welcome to the Pizza Restaurant! This project is a fully responsive web application for a pizza restaurant built using HTML, CSS and JavaScript. The site offers a user-friendly interface where customers can explore our menu, make reservations and order online.
+Welcome to the Pizza Restaurant! This project is a fully responsive web application for a pizza restaurant built using HTML and CSS . The site offers a user-friendly interface where customers can explore our menu, make reservations and order online.
 
 # Features
 - Responsive Design: Makes the website look great on all devices, from desktops to mobile phones.
